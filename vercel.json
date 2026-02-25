@@ -14,10 +14,28 @@
       ]
     },
     {
-      "source": "/(.*\\.(jpg|jpeg|png|gif|webp|svg|ico|woff2|woff|ttf))",
-      "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=86400" }
-      ]
+      "source": "/:file(.*\\.jpg)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400" }]
+    },
+    {
+      "source": "/:file(.*\\.jpeg)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400" }]
+    },
+    {
+      "source": "/:file(.*\\.png)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400" }]
+    },
+    {
+      "source": "/:file(.*\\.svg)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400" }]
+    },
+    {
+      "source": "/:file(.*\\.webp)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400" }]
+    },
+    {
+      "source": "/:file(.*\\.woff2)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400" }]
     }
   ]
 }
