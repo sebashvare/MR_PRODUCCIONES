@@ -115,8 +115,8 @@ vercel --prod
 
 ## Contacto del negocio
 
-- **Email:** visioncreativastudiocol@gmail.com
-- **Teléfono:** +57 320 692 7531
+- **Email:** monorichardsalsa@gmail.com
+- **Teléfono:** +57 315 5441773
 - **Ubicación:** Cali, Colombia
 
 ---
