@@ -520,7 +520,7 @@ export const tourScheduleConfig: TourScheduleConfig = {
       date: "2026.04.18",
       time: "22:00",
       city: "Cali",
-      venue: "Club Premium",
+      venue: "Dubai Night Club",
       status: "on-sale",
       image: "/Pepito_Gomez.png",
     },
