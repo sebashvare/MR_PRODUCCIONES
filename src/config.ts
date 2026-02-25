@@ -522,7 +522,7 @@ export const tourScheduleConfig: TourScheduleConfig = {
       city: "Cali",
       venue: "Club Premium",
       status: "on-sale",
-      image: "/public/Pepito_Gomez.png",
+      image: "/Pepito_Gomez.png",
     },
     // {
     //   id: 3,
